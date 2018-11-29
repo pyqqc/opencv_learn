@@ -1,13 +1,11 @@
+Keras安装
 
-ip3 install --upgrade pip
+pip install virtualenv
 
-pip3 install decorator==4.1.2 
+windows打开cmd
 
-pip3 install jupyter
+virtualenv keras
 
-pip install opencv-python
+keras\Scripts\activate.bat
 
-pip install tensorflow
-
-pip install keras
-
+pip install numpy jupyter keras matplotlib
