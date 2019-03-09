@@ -14,4 +14,5 @@ keras\Scripts\activate.bat
 pip install numpy jupyter keras matplotlib tensorflow -i https://mirrors.aliyun.com/pypi/simple/   
 pip uninstall tornado -i https://mirrors.aliyun.com/pypi/simple/  
 pip install tornado==5.1.1 -i https://mirrors.aliyun.com/pypi/simple/  
-pip install --upgrade numpy -i https://mirrors.aliyun.com/pypi/simple/  
+pip uninstall numpy -i https://mirrors.aliyun.com/pypi/simple/  
+pip install numpy==1.6.1 -i https://mirrors.aliyun.com/pypi/simple/  
