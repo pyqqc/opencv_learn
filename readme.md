@@ -11,6 +11,6 @@ keras\Scripts\activate.bat
 
 ## 在目前的环境下安装其它软件包
 
-pip install numpy jupyter keras matplotlib  
+pip install numpy jupyter keras matplotlib tensorflow
 pip uninstall tornado  
 pip install tornado==5.1.1
