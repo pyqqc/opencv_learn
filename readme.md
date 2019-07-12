@@ -35,7 +35,7 @@ timeout = 6000
 pip install opencv-python
 
 # Git 设置
-git config --global user.name “Your Name”
-git config --global user.email youremail@whatever.com
-git config -- list
-git config -- global credential.helper 'cache --timeout 3600'
+git config --global user.name “Your Name”  
+git config --global user.email youremail@whatever.com  
+git config -- list  
+git config -- global credential.helper 'cache --timeout 3600'  
