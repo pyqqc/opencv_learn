@@ -1,3 +1,0 @@
-graph demo {
-    "Browser" -- {"Chrome", "Fiefox", "Safari", "..."}
-}
